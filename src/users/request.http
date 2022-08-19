@@ -30,7 +30,7 @@ GET http://localhost:3000/auth/1
 GET http://localhost:3000/auth?email=test@test.com
 
 ### Delete user with id
-DELETE http://localhost:3000/auth/3
+DELETE http://localhost:3000/auth/2
 
 ### Update user
 PATCH http://localhost:3000/auth/4
